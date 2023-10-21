@@ -1,0 +1,11 @@
+write a blog about objects and its internal represantation in java script
+
+  object and its internal represantation:-
+
+ # The object type represents one of javascripts data type 
+ # It is used to store various keyed collections and more complex entities.
+ # Object can be created using the object().
+ # Contrustor or the object initializer / literal syntax.
+ # For eg. if your object is a student ,it will have properties like names,age,address,id,etc.
+ # And method like updateaddress,updatename,etc. 
+

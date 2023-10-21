@@ -1,0 +1,17 @@
+write a blog on diffrence between Http1.1 vs Http2
+
+Http1.1:-
+
+# The first usable version of http was created in 1997.
+# The first version of http called as Http1.1
+# This version is still in use on the web.
+# Http1.1 load resources one after the other,resources behind it.in contrast 
+
+
+Http2:-
+
+# The new version of Http 2 is launced in 2015.
+# Http2 is much faster and more efficient than http1.1
+# One of the ways in which http2 is faster is in how it priorities content during the loading process.
+# When a client makes a request for a webpage,the server sends several streamsof data th the client at once
+# Instead of sending one thing after another,thuis method of delivery is known as mulitiplexing.
